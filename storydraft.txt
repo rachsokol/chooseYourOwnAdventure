@@ -1,0 +1,93 @@
+<!--
+ideas
+An astronaut crash lands on an exotic planet.
+the planet is lush with greenery and animals
+rumage through the wreckage and take inventory
+try to repair comms
+need to get the comms equipment to a higher location
+
+Go through the forest faster route
+fight off a giant bug
+you encounter a river in between you and the bluff
+go through the river - the river is flowing very fast and looks like it would take a few minutes to get across
+you step into the water which comes up to your waist
+you make your way through the river
+
+go around the river
+
+or stay on the beach slower route
+gather the debris to make a shelter
+encounter an animal of some sort
+
+fight off a flying animal
+go to the jungle
+
+Select * from page where pid = 1;
+display page
+Select choice from choices where pid = 1;
+
+Select * from choices c INNER JOIN page p ON c.cid = p.cid where cid = $cid;
+
+
+
+-->
+
+
+Book: Stranded
+page 1:
+It's quiet, your co-pilot, Jules, has gone to bed and you're checking to make sure the ship is on course. It's been a long couple of years up in space with only one other person. You thought it was going to be lonely but you have found a real friend in Jules. You have your routine that you do together everyday, running the ship, exercising, eating and preparing food together. 
+All of a sudden, a something hits the ship. The warning alarm starts going off and Jules wakes up and asks you, "What is going on?". You say, "Something just hit us, it must have been a meteor.". Jules tryes to get in communication with earth to signal for help, but there is no luck with that, they don't have been damaged by the hit and need to be repaired. As you look at the monitor, you realize that the ship has been hit by a very large meteor and the ship is not going to be repairable while you are flying. You see a nearby planet that seems to have a fairly habitable environment. You show Jules and ask, "What do you think should we try to land there?". Jules replies, "I don't think we have another choice.". You take the ship down to the planet. As you get closer you see lots of greenery with mountains and bluffs. You aim for a grassy area without to many trees. You crash land. It was bumpy and you lost some of the ship. You start gathering supplies and Jules starts working on the comms. You grab food, water and
+		choice 1: a knife
+		choice 2: a flashlight
+		
+page 2: choice 1 and choice 2
+Jules says, "I fixed the comms transmitter, but it still isn't working. I think we need to get to a higher location to get it to work.". You reply, "Okay I gathered some supplies I'll throw em in a bag and then we can look around." You look around and see that you are at the edge of a forest. Overlooking the forest is a mountain. You point to it, "There", you say. You start making your way through the forest and stumble upon a river. The river seems to travel pretty far you can see it go on for a least a mile in either direction. The flow of the river is pretty slow and you think you could probably cross. Jules says, "What should we do? Cross the river or go around?"
+        choice 3: Cross the river.
+        choice 4. Go around.
+    
+page 3: choice 3 //main path 1
+"Okay let's go." You make your way into the river and realize how deep it actually is. Looks like you will be swimming across. You and Jules put your backpacks over your head with one arm and use the other to swim. You make it across but your clothes are completely soaked. You guys get yourselves together and start walking toward the mountain. After awhile, you and Jules sit on some rocks to eat some food.  As your talking with Jules, you see a creature behind her. It is a large animal, it stands on four legs and has spikes on it's back. It is looking right at you with it's four eyes. You tell Jules and she asks, "What do we do? Should we run or stand our ground?"
+        choice 5: Run
+        choice 6: Stand your ground
+        
+page 4: choice 4 //main path 2
+"I think it might be safer to just go around and find another place to cross." You walk along the river. It takes a while but after a few hours you find a section of the river that has been damned by a creature you assume that is similar to a beaver. You wonder if it might have been created by a creature closer to the inteligence of a human. So much has happened so fast that you haven't really let it set in that you are on a planet that very well might have aliens and possibly agressive ones. You decide to keep your guard up. You and Jules cross the damn with ease. Once across, you start heading toward the mountain. As you are walking you come across a wall built with logs with a large gate. You look at Jules as you both start freaking out. Jules asks, "I didn't know this planet was habbited by more than just animals. Do you think they will be hostile or do you think they could help us? What should we do?"
+        choice 7: Go investigate the wall
+        choice 8: Go quietly around
+		
+page 5: choice 5 //main path 1
+"Run!", you say. You both grab your stuff and bolt into the forest. Jules is faster than you and gets ahead of you. You try to follow her but you loose her. You look behind you and see that the creature isn't far behind you. You up the pace and you trip and tumble down a revine. You are in a lot of pain. You have hurt your leg very badly. The upside is that the creature lost you or it couldn't make it down the revine. What should you do now?
+        choice 9: Call for Jules. She can't be that far
+        choice 10: Bandage up you leg and try to find her
+		
+page 6: choice 6 and choice 1
+You decide to stand your ground. You pull out your knife and manage to stab the animal in the face. The animal runs away and you both come away unscathed. You start to make your way up the mountain. The mountain is very steep so you make your way up very carefully. You find some walking sticks to help you up the mountain and that seems to help. You finally get to the top and Jules sets up the comms to try to call for help. She gets them working and sends out a message that you have crash landed. They send a ship to get you and you are finally on your way back to earth. The End.
+
+page 7: choice 8
+You find some walking sticks to help you up the mountain and that seems to help. You finally get to the top and Jules sets up the comms to try to call for help. She gets them working and sends out a message that you have crash landed. They send a ship to get you and you are finally on your way back to earth. The End.
+
+page 8: choice 6 and choice 2
+You decide to stand your ground. You grab a nearby stick and try to hit the animal in the face. It stumbles back and then attacks you. You tumble with it and Jules trys to attack it from behind. But it is unbothered. It kills you and then kills Jules. The End.
+
+page 9: choice 7
+As you walk up to the gate, you notice boot prints leading into the wall. You walk up and open the gate. You are greeted by what we would call aliens. They are tall creatures with four eyes. They come up to you with wonderment. They start bringing you different fruits and drinks and the children come up and touch you amazed at what they are seeing. They speak broken english to you and ask if you need help. You ask how they know english and they say tell you many years ago they were visited by humans. You tell them your situation and how you thought you might go up the mountain to communicate to the people on earth. They suggest you stay in their village for a while and then they will bring you up the mountain.
+		choice 11: Go up the mountain on your own
+		choice 12: Have the aliens take you up tomorrow
+		
+page 10: choice 10
+You manage to bandage up your leg by tearing some cloth from your pants. You grab a nearby stick to use as a crutch and start walking toward the mountain. At the base of the mountain you see Jules looking around for you. You meet up with her and she helps you climb the mountain. You finally make it to the top and Jules sets up the comms to try to call for help. She gets them working and sends out a message that you have crash landed. They send a ship to get you and you are finally on your way back to earth. The End.
+
+page 11: choice 12
+You decide to stay for awhile in the village. They give you a tour of the village. There is a school where they teach their children survival skills and homemaking skills. They let you sit in on a class on how to basket weave and you find the children to be so sweet. You rest in a treehouse for the night. You notice the walls are all painted these beautiful colors that glow in the dark. It is beautiful. In the morning, they offer you to stay as long as you want and they offer you a place in the community where you could teach them what you know and they could teach you what they know. Jules looks at you and says, "What do you want to do?"
+		choice 13: Stay with the aliens and learn about their culture and teach them about yourselves
+		choice 14: Politly decline
+
+page 12: choice 13
+You decide to stay and they are filled with joy. You spend the next few years teaching all you know from math to literature. They teach you about their history and their culture and you fall in love with the beautiful planet you happend upon. You decide to live a happy life with Jules and the aliens that you now call family. The End.
+
+page 13: choice 14
+You decline their offer and they take you up the mountain on a horse like creature. You get to the top in  no time and Jules sets up the comms. She sends a message to earth to come get you guys. They send a ship to pick you up and take you home. They also send a ship to explore the land and study the aliens. On earth you hear about the studies they did on the aliens that wiped out most of their species. You spend your days feeling bad that you landing there led to such destruction. You wish you could turn back time and make a different descision. The End.
+page 14: choice 9
+You yell, "Jules, HELP!". You wait for her answer but hear nothing. She must be too far away. You try to bandage up you leg but the animal found his way down the revine and comes around the corner and mauls you. The End.
+page 15: choice 11
+You are not sure if you should trust these aliens so you decide to go up the mountain on your own. It is rough terrain but after a day or so you make your way to the top. Jules sets up the comms and gets in contact with earth. They send a ship to pick you up and you head to earth. You sometimes think about your visit with those aliens but you and Jules vow to never tell anyone about them afraid it will disrupt their way of living. The End.
